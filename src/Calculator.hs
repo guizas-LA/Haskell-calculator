@@ -9,7 +9,7 @@ module Main where
 
 import Parsing
 import Data.Char
-
+  
 --
 -- a data type for expressions
 -- made up from integer numbers, + and *
